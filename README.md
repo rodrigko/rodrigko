@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigko&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigko" alt="rodrigko" /></a> </p>
 
-- 🔭 I’m currently studying in **FCUL**
+- 🔭 I’m currently studying **Computer Science** in **FCUL**
 
-- 🌱 I’m currently trying to learn **everything that i'm taught**
 
 
 <h3 align="left">Connect with me:</h3>
