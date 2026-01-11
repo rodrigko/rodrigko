@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Who am I
 🎓 Computer Engineering undergraduate passionate about technology, problem‑solving, and innovation.  
-💻 Experience in both **software development** (C#, ASP.NET, .NET, REST APIs) and **hardware engineering**.  
+💻 Experience in both **software development** (C#, ASP.NET, .NET, Java, Python, REST APIs) and **hardware engineering**.  
 🚀 Curious, adaptable, and always learning new tools to build better solutions.  
 
 ---
@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
